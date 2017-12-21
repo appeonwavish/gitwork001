@@ -25,7 +25,7 @@ error = create error
 end on
 
 on app.destroy
-//
+//--
 destroy( sqlca )
 destroy( sqlda )
 destroy( sqlsa )
